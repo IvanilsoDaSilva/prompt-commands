@@ -39,7 +39,7 @@
 
 </div>
 
-<h2 align="right">1.5. OTHERS COMMANDS 💡</h2>
+<h2 align="right">1.5. COMMANDS 💡</h2>
 <p align="right">Use the following commands (if there are commands) by <kbd>CTRL</kbd>+<kbd>V</kbd> where necessary</p>
 
 📌 NAVIGATES BETWEEN DIRECTORIES

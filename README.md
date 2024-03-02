@@ -15,6 +15,8 @@
 
 <h2 align="right">1.1. INTRODUCTION 📰</h2>
 
+This Git repository was created for the purpose of storing and documenting a collection of common Windows terminal commands. Here, you'll find a variety of commands frequently used during project development with Windows, from basic operations to more advanced tasks.
+
 <h2 align="right">1.2. DESCRIPTION 📝</h2>
 
 <h2 align="right">1.3. TECHNOLOGIES 💻</h2>

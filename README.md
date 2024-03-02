@@ -43,7 +43,7 @@ This Git repository was created for the purpose of storing and documenting a col
 
 </div>
 
-<h2 align="right">1.5. COMMANDS 💡</h2>
+<h2 align="right">1.4. PROMPT COMMANDS 💡</h2>
 <p align="right">Use the following commands (if there are commands) by <kbd>CTRL</kbd>+<kbd>V</kbd> where necessary</p>
 
 📌 NAVIGATES BETWEEN DIRECTORIES
@@ -58,13 +58,19 @@ cd {file path or .. to return}
 ren {file or diretory path} {file or directory path to rename}
 ```
 
-📌 DELETES A REPOSITORY
+📌 DELETES A REPOSITORY (/s INCLUDES FILES AND DIRECTORIES)
 
 ```
 rmdir /s {path of the directory}
 ```
 
-<h2 align="right">1.6. OTHER REPOSITORIES 📘</h2>
+📌 SHOWS THE FILES AND DIRECTORIES OF THE CURRENT DIRECTORY (/a INCLUDES HIDDEN FILES)
+
+```
+dir /a
+```
+
+<h2 align="right">1.5. OTHER REPOSITORIES 📘</h2>
 
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=sistema-bancario-frontend&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF"/>
